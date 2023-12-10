@@ -21,9 +21,15 @@
     <ClInclude Include="src\rl-opt\system.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\rl-opt\log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\rl-opt\system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\rl-opt\log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

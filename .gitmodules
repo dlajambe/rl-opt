@@ -1,0 +1,3 @@
+[submodule "rl-opt/vendor/spdlog"]
+	path = rl-opt/vendor/spdlog
+	url = https://github.com/gabime/spdlog
